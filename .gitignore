@@ -1,0 +1,4 @@
+*.o
+
+#ignore bins
+function_pointers/function_pointers
